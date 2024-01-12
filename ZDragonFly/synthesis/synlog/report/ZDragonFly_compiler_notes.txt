@@ -1,0 +1,21 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CG1349 :	| Running Verilog Compiler in System Verilog mode
+@N: CG364 :"F:\MyTemporary\Github\PFSoC\ZDragonFly\component\work\PF_CCC_C0\PF_CCC_C0_0\pll_ext_feedback_mode_soft_logic.v":14:7:14:53|Synthesizing module PF_CCC_C0_PF_CCC_C0_0_PLL_EXT_FEEDBACK_MODE_RTL in library work.
+@N: CG364 :"F:\MySoftware\MicroChip\SynplifyPro\lib\generic\acg5.v":489:7:489:12|Synthesizing module CLKINT in library work.
+@N: CG364 :"F:\MyTemporary\Github\PFSoC\ZDragonFly\component\polarfire_syn_comps.v":3694:7:3694:9|Synthesizing module PLL in library work.
+@N: CG364 :"F:\MySoftware\MicroChip\SynplifyPro\lib\generic\acg5.v":504:7:504:9|Synthesizing module VCC in library work.
+@N: CG364 :"F:\MySoftware\MicroChip\SynplifyPro\lib\generic\acg5.v":500:7:500:9|Synthesizing module GND in library work.
+@N: CG364 :"F:\MyTemporary\Github\PFSoC\ZDragonFly\component\work\PF_CCC_C0\PF_CCC_C0_0\PF_CCC_C0_PF_CCC_C0_0_PF_CCC.v":5:7:5:34|Synthesizing module PF_CCC_C0_PF_CCC_C0_0_PF_CCC in library work.
+@N: CG364 :"F:\MyTemporary\Github\PFSoC\ZDragonFly\component\work\PF_CCC_C0\PF_CCC_C0.v":264:7:264:15|Synthesizing module PF_CCC_C0 in library work.
+@N: CG364 :"F:\MyTemporary\Github\PFSoC\ZDragonFly\component\polarfire_syn_comps.v":2199:7:2199:18|Synthesizing module OSC_RC160MHZ in library work.
+@N: CG364 :"F:\MyTemporary\Github\PFSoC\ZDragonFly\component\work\PF_OSC_C0\PF_OSC_C0_0\PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v":5:7:5:34|Synthesizing module PF_OSC_C0_PF_OSC_C0_0_PF_OSC in library work.
+@N: CG364 :"F:\MyTemporary\Github\PFSoC\ZDragonFly\component\work\PF_OSC_C0\PF_OSC_C0.v":27:7:27:15|Synthesizing module PF_OSC_C0 in library work.
+@N: CG364 :"F:\MyTemporary\Github\PFSoC\ZDragonFly\hdl\ZLED_Indicator.v":21:7:21:20|Synthesizing module ZLED_Indicator in library work.
+@N: CG364 :"F:\MyTemporary\Github\PFSoC\ZDragonFly\hdl\ZLED_Reactor.v":21:7:21:18|Synthesizing module ZLED_Reactor in library work.
+@N: CG364 :"F:\MyTemporary\Github\PFSoC\ZDragonFly\hdl\ZSwitch_Detector.v":21:7:21:22|Synthesizing module ZSwitch_Detector in library work.
+@N: CG364 :"F:\MyTemporary\Github\PFSoC\ZDragonFly\component\work\ZSwitch_Module\ZSwitch_Module.v":9:7:9:20|Synthesizing module ZSwitch_Module in library work.
+@N: CG364 :"F:\MyTemporary\Github\PFSoC\ZDragonFly\component\work\ZDragonFly\ZDragonFly.v":9:7:9:16|Synthesizing module ZDragonFly in library work.
+@N: CL201 :"F:\MyTemporary\Github\PFSoC\ZDragonFly\component\work\PF_CCC_C0\PF_CCC_C0_0\pll_ext_feedback_mode_soft_logic.v":40:0:40:5|Trying to extract state machine for register state.
+@N|Running in 64-bit mode
+

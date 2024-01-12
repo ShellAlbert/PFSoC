@@ -1,0 +1,11 @@
+DESIGN=ZDragonFly
+DESDIR=F:\MyTemporary\Github\PFSoC\ZDragonFly\designer\ZDragonFly
+TARGET_DIR=F:\MyTemporary\Github\PFSoC\ZDragonFly\designer\ZDragonFly
+FAM=PolarFireSoC
+DIE=PA5SOC250T_ES
+PACKAGE=fcvg484
+PINRPT_BY_NAME=1
+PINRPT_BY_NUMBER=1
+PINRPT_BOARDLAYOUT=1
+BANK_REPORT=1
+IOREG_REPORT=1

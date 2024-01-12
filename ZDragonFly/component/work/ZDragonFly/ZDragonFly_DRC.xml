@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml-stylesheet type="text/xsl" href="drcss.xsl"?>
+<drcreport>
+  <header>ZDragonFly</header>
+  <drc>
+    <status>F:\MySoftware\MicroChip\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin ZSwitch_Module_0:oSwDown1</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/ZDragonFly/pins/ZSwitch_Module_0:oSwDown1</crossprobe>
+  </drc>
+  <drc>
+    <status>F:\MySoftware\MicroChip\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin ZSwitch_Module_0:oSwUp1</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/ZDragonFly/pins/ZSwitch_Module_0:oSwUp1</crossprobe>
+  </drc>
+  <drc>
+    <status>F:\MySoftware\MicroChip\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin ZSwitch_Module_0:oSwDown2</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/ZDragonFly/pins/ZSwitch_Module_0:oSwDown2</crossprobe>
+  </drc>
+  <drc>
+    <status>F:\MySoftware\MicroChip\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin ZSwitch_Module_0:oSwUp2</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/ZDragonFly/pins/ZSwitch_Module_0:oSwUp2</crossprobe>
+  </drc>
+  <drc>
+    <status>F:\MySoftware\MicroChip\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin ZSwitch_Module_0:oSwDown3</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/ZDragonFly/pins/ZSwitch_Module_0:oSwDown3</crossprobe>
+  </drc>
+  <drc>
+    <status>F:\MySoftware\MicroChip\Designer/data/drcreport\warn.png</status>
+    <StatusMessage>Warning</StatusMessage>
+    <message>Floating Driver</message>
+    <detail>Floating output pin ZSwitch_Module_0:oSwUp3</detail>
+    <crossprobe>liberoaction://cross_probe/smartdesign/ZDragonFly/pins/ZSwitch_Module_0:oSwUp3</crossprobe>
+  </drc>
+</drcreport>

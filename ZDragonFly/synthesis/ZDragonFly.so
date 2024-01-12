@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<SynplifyOutput>
+	<result>Success</result>
+	<design>ZDragonFly</design>
+	<target_verilog>F:\MyTemporary\Github\PFSoC\ZDragonFly\synthesis\ZDragonFly.vm</target_verilog>
+</SynplifyOutput>

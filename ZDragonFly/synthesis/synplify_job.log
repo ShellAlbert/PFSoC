@@ -1,0 +1,77 @@
+Synplify Pro (R) Job Log
+Date: 14:52:53    12-Jan-2024
+Install Directory: F:\MySoftware\MicroChip\SynplifyPro
+
+JobFlow: synthesis
+   Run Start Time: 14:52:44
+   Runtime: 09s
+   Executable Run Time: 8 - (Sum of all child executables)
+   Current Working Directory: F:\MyTemporary\Github\PFSoC\ZDragonFly\synthesis
+
+   JobFlow: synthesis
+      Run Start Time: 14:52:44
+      Runtime: 09s
+      Executable Run Time: 8 - (Sum of all child executables)
+
+      JobFlow: compile
+         Run Start Time: 14:52:44
+         Runtime: 06s
+         Executable Run Time: 5 - (Sum of all child executables)
+
+         JobFlow: compile_flow
+            Run Start Time: 14:52:44
+            Runtime: 04s
+            Executable Run Time: 3 - (Sum of all child executables)
+
+            Job: compiler
+               executable: bin64\c_hdl.exe
+               Run Directory: F:/MyTemporary/Github/PFSoC/ZDragonFly/synthesis
+               Run State: complete
+               Return Code: 0
+               Has Errors: no
+               Run Start Time: 14:52:44
+               Run Time: 04s
+               Executable Run Time: 3 - (Executable run time excluding UI processing)
+               Memory Usage: -
+               Up-to-date (run skipped): no
+
+            Job: multi_srs_gen
+               executable: bin64\syn_nfilter.exe
+               Run Directory: F:/MyTemporary/Github/PFSoC/ZDragonFly/synthesis
+               Run State: complete
+               Return Code: 0
+               Has Errors: no
+               Run Start Time: 14:52:48
+               Run Time: 00s
+               Executable Run Time: 0 - (Executable run time excluding UI processing)
+               Memory Usage: -
+               Up-to-date (run skipped): no
+
+         Job: premap
+            executable: bin64\m_generic.exe
+            Run Directory: F:/MyTemporary/Github/PFSoC/ZDragonFly/synthesis
+            Run State: complete
+            Return Code: 1
+            Has Errors: no
+            Run Start Time: 14:52:48
+            Run Time: 02s
+            Executable Run Time: 2 - (Executable run time excluding UI processing)
+            Memory Usage: -
+            Up-to-date (run skipped): no
+
+      JobFlow: map
+         Run Start Time: 14:52:50
+         Runtime: 03s
+         Executable Run Time: 3 - (Sum of all child executables)
+
+         Job: fpga_mapper
+            executable: bin64\m_generic.exe
+            Run Directory: F:/MyTemporary/Github/PFSoC/ZDragonFly/synthesis
+            Run State: complete
+            Return Code: 1
+            Has Errors: no
+            Run Start Time: 14:52:50
+            Run Time: 03s
+            Executable Run Time: 3 - (Executable run time excluding UI processing)
+            Memory Usage: -
+            Up-to-date (run skipped): no

@@ -1,0 +1,11 @@
+Microchip Technology Inc. - Microchip Libero Software Release v2023.2 SP1 (Version 2023.2.0.10)
+
+Date      :  Fri Jan 12 14:16:39 2024
+Project   :  F:\MyTemporary\Github\PFSoC\ZDragonFly
+Component :  ZDragonFly
+Family    :  PolarFireSoC
+
+
+HDL source files for all Synthesis and Simulation tools:
+    F:/MyTemporary/Github/PFSoC/ZDragonFly/component/work/ZDragonFly/ZDragonFly.v
+

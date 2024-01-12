@@ -1,0 +1,12 @@
+@N: MF472 |Synthesis running in Automatic Compile Point mode
+@N: MF474 |No compile point is identified in Automatic Compile Point mode
+@N: MF916 |Option synthesis_strategy=base is enabled. 
+@N: MF248 |Running in 64-bit mode.
+@N: MF667 |Clock conversion disabled. (Command "set_option -fix_gated_and_generated_clocks 0" in the project file.)
+@N: BN115 :"f:\mytemporary\github\pfsoc\zdragonfly\component\work\zswitch_module\zswitch_module.v":96:17:96:34|Removing instance ZSwitch_Detector_0 (in view: work.ZSwitch_Module(verilog)) because it does not drive other instances.
+@N: BN115 :"f:\mytemporary\github\pfsoc\zdragonfly\component\work\zswitch_module\zswitch_module.v":107:17:107:34|Removing instance ZSwitch_Detector_1 (in view: work.ZSwitch_Module(verilog)) because it does not drive other instances.
+@N: BN115 :"f:\mytemporary\github\pfsoc\zdragonfly\component\work\zswitch_module\zswitch_module.v":118:17:118:34|Removing instance ZSwitch_Detector_2 (in view: work.ZSwitch_Module(verilog)) because it does not drive other instances.
+@N: FP130 |Promoting Net iClk on CLKINT  I_1 
+@N: FX1184 |Applying syn_allowed_resources blockrams=812 on top level netlist ZDragonFly 
+@N: FX1143 |Skipping assigning INTERNAL_VREF to iobanks, because the table of mapping from pin to iobank is not initialized.
+@N: BN225 |Writing default property annotation file F:\MyTemporary\Github\PFSoC\ZDragonFly\synthesis\ZDragonFly.sap.

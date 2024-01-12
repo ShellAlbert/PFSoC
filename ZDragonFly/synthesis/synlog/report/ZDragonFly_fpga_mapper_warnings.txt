@@ -1,0 +1,7 @@
+@W: BW156 :|Option "-name" of set_clock_groups cannot be forward-annotated; there is no equivalent option in your place-and-route tool.
+@W: BW156 :|Option "-name" of set_clock_groups cannot be forward-annotated; there is no equivalent option in your place-and-route tool.
+@W: BW156 :|Option "-name" of set_clock_groups cannot be forward-annotated; there is no equivalent option in your place-and-route tool.
+@W: MT246 :"f:\mytemporary\github\pfsoc\zdragonfly\component\work\pf_osc_c0\pf_osc_c0_0\pf_osc_c0_pf_osc_c0_0_pf_osc.v":13:17:13:25|Blackbox OSC_RC160MHZ is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)
+@W: MT420 |Found inferred clock PF_CCC_C0_PF_CCC_C0_0_PF_CCC|pll_inst_0_clkint_0_inferred_clock with period 10.00ns. Please declare a user-defined clock on net PF_CCC_C0_0.PF_CCC_C0_0.pll_inst_0_clkint_0.
+@W: MT420 |Found inferred clock ZDragonFly|iClk with period 10.00ns. Please declare a user-defined clock on port iClk.
+@W: MT420 |Found inferred clock PF_OSC_C0_PF_OSC_C0_0_PF_OSC|I_OSC_160_CLK_c_inferred_clock with period 10.00ns. Please declare a user-defined clock on net PF_OSC_C0_0.PF_OSC_C0_0.I_OSC_160_CLK_c.

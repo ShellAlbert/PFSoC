@@ -1,0 +1,354 @@
+KEY LIBERO "2023.2"
+KEY CAPTURE "2023.2.0.10"
+KEY DEFAULT_IMPORT_LOC ""
+KEY DEFAULT_OPEN_LOC ""
+KEY ProjectID "0"
+KEY HDLTechnology "VERILOG"
+KEY VERILOGMODE "SYSTEMVERILOG"
+KEY VHDLMODE "VHDL2008"
+KEY SYSTEMVERILOGMFCU "FALSE"
+KEY UseConstraintFlowTechnology "TRUE"
+KEY VendorTechnology_Family "PolarFireSoC"
+KEY VendorTechnology_Die "PA5SOC250T_ES"
+KEY VendorTechnology_Package "fcvg484"
+KEY VendorTechnology_Speed "STD"
+KEY VendorTechnology_DieVoltage "1.0"
+KEY VendorTechnology_PART_RANGE "EXT"
+KEY VendorTechnology_DSW_VCCA_VOLTAGE_RAMP_RATE ""
+KEY VendorTechnology_IO_DEFT_STD "LVCMOS18"
+KEY VendorTechnology_OPCONR ""
+KEY VendorTechnology_PLL_SUPPLY ""
+KEY VendorTechnology_RAD_EXPOSURE ""
+KEY VendorTechnology_RESERVEMIGRATIONPINS "1"
+KEY VendorTechnology_RESTRICTPROBEPINS "1"
+KEY VendorTechnology_RESTRICTSPIPINS "0"
+KEY VendorTechnology_SYSTEM_CONTROLLER_SUSPEND_MODE "0"
+KEY VendorTechnology_TARGETDEVICESFORMIGRATION "PA5SOC250T_ES"
+KEY VendorTechnology_TEMPR "EXT"
+KEY VendorTechnology_UNUSED_MSS_IO_RESISTOR_PULL "None"
+KEY VendorTechnology_VCCI_1.2_VOLTR "EXT"
+KEY VendorTechnology_VCCI_1.5_VOLTR "EXT"
+KEY VendorTechnology_VCCI_1.8_VOLTR "EXT"
+KEY VendorTechnology_VCCI_2.5_VOLTR "EXT"
+KEY VendorTechnology_VCCI_3.3_VOLTR "EXT"
+KEY VendorTechnology_VOLTR "EXT"
+KEY ProjectLocation "F:\MyTemporary\Github\PFSoC\ZDragonFly"
+KEY ProjectDescription ""
+KEY UseRootLocationForLinkedFiles "FALSE"
+KEY RootLocationENVForLinkedFiles ""
+KEY RootLocationForLinkedFiles ""
+KEY GlobalIncludePaths ""
+KEY Pa4PeripheralNewSeq "GOOD"
+KEY MemoryMapDrcSeverity "FALSE"
+KEY LossOfDataDRCSeverity "TRUE"
+KEY IdWidthMismatchDRCSeverity "TRUE"
+KEY SimulationType "VERILOG"
+KEY Vendor "Actel"
+KEY ActiveRoot "ZDragonFly::work"
+LIST REVISIONS
+VALUE="Impl1",NUM=1
+CURREV=1
+ENDLIST
+LIST GlobalIncludeFileList
+ENDLIST
+LIST FileManager
+VALUE "<project>\component\Actel\SgCore\PF_CCC\2.2.220\PF_CCC.cxf,actgen_cxf"
+STATE="utd"
+TIME="1704961819"
+SIZE="359"
+PARENT="<project>\component\work\PF_CCC_C0\PF_CCC_C0.cxf"
+ENDFILE
+VALUE "<project>\component\Actel\SgCore\PF_OSC\1.0.102\PF_OSC.cxf,actgen_cxf"
+STATE="utd"
+TIME="1704956954"
+SIZE="243"
+PARENT="<project>\component\work\PF_OSC_C0\PF_OSC_C0.cxf"
+ENDFILE
+VALUE "<project>\component\work\PF_CCC_C0\PF_CCC_C0.cxf,actgen_cxf"
+STATE="utd"
+TIME="1704961820"
+SIZE="18359"
+ENDFILE
+VALUE "<project>\component\work\PF_CCC_C0\PF_CCC_C0.v,hdl"
+STATE="utd"
+TIME="1704961819"
+SIZE="10321"
+PARENT="<project>\component\work\PF_CCC_C0\PF_CCC_C0.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\PF_CCC_C0\PF_CCC_C0_0\PF_CCC_C0_PF_CCC_C0_0_PF_CCC.cxf,actgen_cxf"
+STATE="utd"
+TIME="1704961819"
+SIZE="609"
+PARENT="<project>\component\work\PF_CCC_C0\PF_CCC_C0.cxf"
+ENDFILE
+VALUE "<project>\component\work\PF_CCC_C0\PF_CCC_C0_0\PF_CCC_C0_PF_CCC_C0_0_PF_CCC.v,hdl"
+STATE="utd"
+TIME="1704961819"
+SIZE="4308"
+PARENT="<project>\component\work\PF_CCC_C0\PF_CCC_C0_0\PF_CCC_C0_PF_CCC_C0_0_PF_CCC.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\PF_CCC_C0\PF_CCC_C0_0\pll_ext_feedback_mode_soft_logic.v,hdl"
+STATE="utd"
+TIME="1704961819"
+SIZE="4518"
+PARENT="<project>\component\work\PF_CCC_C0\PF_CCC_C0_0\PF_CCC_C0_PF_CCC_C0_0_PF_CCC.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\PF_OSC_C0\PF_OSC_C0.cxf,actgen_cxf"
+STATE="utd"
+TIME="1704956954"
+SIZE="2371"
+ENDFILE
+VALUE "<project>\component\work\PF_OSC_C0\PF_OSC_C0.v,hdl"
+STATE="utd"
+TIME="1704956954"
+SIZE="2123"
+PARENT="<project>\component\work\PF_OSC_C0\PF_OSC_C0.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\PF_OSC_C0\PF_OSC_C0_0\PF_OSC_C0_PF_OSC_C0_0_PF_OSC.cxf,actgen_cxf"
+STATE="utd"
+TIME="1704956954"
+SIZE="479"
+PARENT="<project>\component\work\PF_OSC_C0\PF_OSC_C0.cxf"
+ENDFILE
+VALUE "<project>\component\work\PF_OSC_C0\PF_OSC_C0_0\PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v,hdl"
+STATE="utd"
+TIME="1704956954"
+SIZE="449"
+PARENT="<project>\component\work\PF_OSC_C0\PF_OSC_C0_0\PF_OSC_C0_PF_OSC_C0_0_PF_OSC.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\ZDragonFly\ZDragonFly.cxf,actgen_cxf"
+STATE="utd"
+TIME="1705040199"
+SIZE="3035"
+ENDFILE
+VALUE "<project>\component\work\ZDragonFly\ZDragonFly.v,hdl"
+STATE="utd"
+TIME="1705040199"
+SIZE="4460"
+PARENT="<project>\component\work\ZDragonFly\ZDragonFly.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\component\work\ZSwitch_Module\ZSwitch_Module.cxf,actgen_cxf"
+STATE="utd"
+TIME="1705039819"
+SIZE="3477"
+ENDFILE
+VALUE "<project>\component\work\ZSwitch_Module\ZSwitch_Module.v,hdl"
+STATE="utd"
+TIME="1705039819"
+SIZE="3765"
+PARENT="<project>\component\work\ZSwitch_Module\ZSwitch_Module.cxf"
+IS_READONLY="TRUE"
+ENDFILE
+VALUE "<project>\constraint\io\zphy_io.pdc,io_pdc"
+STATE="utd"
+TIME="1705042354"
+SIZE="1691"
+ENDFILE
+VALUE "<project>\hdl\ZLED_Indicator.v,hdl"
+STATE="utd"
+TIME="1704955820"
+SIZE="1199"
+ENDFILE
+VALUE "<project>\hdl\ZLED_Reactor.v,hdl"
+STATE="utd"
+TIME="1705029883"
+SIZE="965"
+ENDFILE
+VALUE "<project>\hdl\ZSwitch_Detector.v,hdl"
+STATE="utd"
+TIME="1705029449"
+SIZE="3406"
+ENDFILE
+VALUE "<project>\synthesis\ZDragonFly.so,so"
+STATE="utd"
+TIME="1705042373"
+SIZE="233"
+ENDFILE
+VALUE "<project>\synthesis\ZDragonFly_syn.prj,prj"
+STATE="utd"
+TIME="1705042373"
+SIZE="3899"
+ENDFILE
+VALUE "<project>\synthesis\ZDragonFly_vm.sdc,syn_sdc"
+STATE="utd"
+TIME="1705042372"
+SIZE="1977"
+ENDFILE
+ENDLIST
+LIST UsedFile
+ENDLIST
+LIST NewModulesInfo
+LIST "ZDragonFly::work"
+FILE "<project>\component\work\ZDragonFly\ZDragonFly.v,hdl"
+LIST PNRConstraints
+VALUE "<project>\constraint\io\zphy_io.pdc,io_pdc"
+ENDLIST
+ENDLIST
+ENDLIST
+LIST AssociatedStimulus
+ENDLIST
+LIST Other_Association
+ENDLIST
+LIST SimulationOptions
+UseAutomaticDoFile=true
+IncludeWaveDo=false
+Type=max
+RunTime=1000ns
+Resolution=1ps
+VsimOpt=
+EntityName=testbench
+TopInstanceName=<top>_0
+DoFileName=
+DoFileName2=wave.do
+DoFileParams=
+DisplayDUTWave=false
+LogAllSignals=false
+DisablePulseFiltering=false
+DumpVCD=false
+VCDFileName=power.vcd
+VHDL2008=false
+Verilog2001=false
+SystemVerilog=false
+TimeUnit=1
+TimeUnitBase=ns
+Precision=100
+PrecisionBase=ps
+SdfCorner=slow_lv_ht
+PliPath=F:/MySoftware/MicroChip/Designer/lib/modelsimpro/pli/pf_crypto_win_me_pli.dll
+UseCustomPliPath=false
+ENDLIST
+LIST ModelSimLibPath
+UseCustomPath=FALSE
+LibraryPath=
+ENDLIST
+LIST GlobalFlowOptions
+GenerateHDLAfterSynthesis=FALSE
+GenerateHDLAfterPhySynthesis=FALSE
+RunDRCAfterSynthesis=FALSE
+AutoCheckConstraints=TRUE
+UpdateModelSimIni=TRUE
+NoIOMode=FALSE
+PeriInitStandalone=FALSE
+OnDemandBuildDH=TRUE
+EnableViewDraw=FALSE
+UpdateViewDrawIni=TRUE
+GenerateHDLFromSchematic=TRUE
+VmNetlistFlowOn=TRUE
+EnableDesignSeparationOn=FALSE
+EnableSETMitigationOn=FALSE
+DisplayFanoutLimit=10
+AbortFlowOnPDCErrorsOn=TRUE
+AbortFlowOnSDCErrorsOn=TRUE
+AbortFlowOn3.3V_IO_ON=FALSE
+InstantiateInSmartDesign=TRUE
+FlashProInputFile=pdb
+SmartGenCompileReport=T
+ENDLIST
+LIST PhySynthesisOptions
+ENDLIST
+LIST Profiles
+NAME="SoftConsole"
+FUNCTION="SoftwareIDE"
+TOOL="SoftConsole"
+LOCATION="eclipse.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Synplify Pro ME"
+FUNCTION="Synthesis"
+TOOL="Synplify Pro ME"
+LOCATION="F:\MySoftware\MicroChip\SynplifyPro\bin\synplify_pro.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="ModelSim ME Pro"
+FUNCTION="Simulation"
+TOOL="ModelSim Pro Edition"
+LOCATION="F:\MySoftware\MicroChip\ModelSimPro\win32acoem\modelsim.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+NAME="Identify Debugger"
+FUNCTION="IdentifyDebugger"
+TOOL="Identify Debugger"
+LOCATION="F:\MySoftware\MicroChip\Identify\bin\identify_debugger.exe"
+PARAM=""
+BATCH=0
+LICENSE=""
+IS32BIT="1"
+EndProfile
+ENDLIST
+LIST ProjectState5.1
+ENDLIST
+LIST ExcludePackageForSimulation
+ENDLIST
+LIST ExcludePackageForSynthesis
+ENDLIST
+LIST IncludeModuleForSimulation
+ENDLIST
+LIST CDBOrder
+ENDLIST
+LIST UserCustomizedFileList
+ENDLIST
+LIST OpenedFileList
+ORIENTATION;HORIZONTAL
+Constraint Manager;Constraint Manager;0
+Reports;Reports;0
+ReportsCurrentItem;synthesis:synplify.log
+StartPage;StartPage;0
+ACTIVEVIEW;StartPage
+ENDLIST
+LIST ModuleSubBlockList
+LIST "PF_CCC_C0_PF_CCC_C0_0_PLL_EXT_FEEDBACK_MODE_RTL::work","component\work\PF_CCC_C0\PF_CCC_C0_0\pll_ext_feedback_mode_soft_logic.v","FALSE","FALSE"
+ENDLIST
+LIST "PF_CCC_C0::work","component\work\PF_CCC_C0\PF_CCC_C0.v","TRUE","FALSE"
+SUBBLOCK "PF_CCC_C0_PF_CCC_C0_0_PF_CCC::work","component\work\PF_CCC_C0\PF_CCC_C0_0\PF_CCC_C0_PF_CCC_C0_0_PF_CCC.v","FALSE","FALSE"
+ENDLIST
+LIST "PF_CCC_C0_PF_CCC_C0_0_PF_CCC::work","component\work\PF_CCC_C0\PF_CCC_C0_0\PF_CCC_C0_PF_CCC_C0_0_PF_CCC.v","FALSE","FALSE"
+SUBBLOCK "PF_CCC_C0_PF_CCC_C0_0_PLL_EXT_FEEDBACK_MODE_RTL::work","component\work\PF_CCC_C0\PF_CCC_C0_0\pll_ext_feedback_mode_soft_logic.v","FALSE","FALSE"
+ENDLIST
+LIST "PF_OSC_C0::work","component\work\PF_OSC_C0\PF_OSC_C0.v","TRUE","FALSE"
+SUBBLOCK "PF_OSC_C0_PF_OSC_C0_0_PF_OSC::work","component\work\PF_OSC_C0\PF_OSC_C0_0\PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v","FALSE","FALSE"
+ENDLIST
+LIST "PF_OSC_C0_PF_OSC_C0_0_PF_OSC::work","component\work\PF_OSC_C0\PF_OSC_C0_0\PF_OSC_C0_PF_OSC_C0_0_PF_OSC.v","FALSE","FALSE"
+ENDLIST
+LIST "ZDragonFly::work","component\work\ZDragonFly\ZDragonFly.v","TRUE","FALSE"
+SUBBLOCK "PF_CCC_C0::work","component\work\PF_CCC_C0\PF_CCC_C0.v","TRUE","FALSE"
+SUBBLOCK "PF_OSC_C0::work","component\work\PF_OSC_C0\PF_OSC_C0.v","TRUE","FALSE"
+SUBBLOCK "ZLED_Indicator::work","hdl\ZLED_Indicator.v","FALSE","FALSE"
+SUBBLOCK "ZLED_Reactor::work","hdl\ZLED_Reactor.v","FALSE","FALSE"
+SUBBLOCK "ZSwitch_Module::work","component\work\ZSwitch_Module\ZSwitch_Module.v","TRUE","FALSE"
+ENDLIST
+LIST "ZLED_Indicator::work","hdl\ZLED_Indicator.v","FALSE","FALSE"
+ENDLIST
+LIST "ZLED_Reactor::work","hdl\ZLED_Reactor.v","FALSE","FALSE"
+ENDLIST
+LIST "ZSwitch_Detector::work","hdl\ZSwitch_Detector.v","FALSE","FALSE"
+ENDLIST
+LIST "ZSwitch_Module::work","component\work\ZSwitch_Module\ZSwitch_Module.v","TRUE","FALSE"
+SUBBLOCK "ZSwitch_Detector::work","hdl\ZSwitch_Detector.v","FALSE","FALSE"
+ENDLIST
+ENDLIST
+LIST ActiveTestBenchList
+ENDLIST
+LIST IOTabList
+VALUE "constraint\io\zphy_io.pdc"
+ENDLIST
+LIST FPTabList
+ENDLIST
+LIST TimingTabList
+ENDLIST
+LIST FDCTabList
+ENDLIST

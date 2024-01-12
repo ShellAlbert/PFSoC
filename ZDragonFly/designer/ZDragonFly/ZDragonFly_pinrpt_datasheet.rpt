@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+-Pin Report - Date: Fri Jan 12 14:45:03 2024 Pinchecksum: NOT-AVAILABLE
+-Product: Designer
+-Release: v2023.2 SP1
+-Version: 2023.2.0.10
+-Design Name: ZDragonFly
+-Family: PolarFireSoC
+-Die: MPFS250T_ES
+-Package: FCVG484
+-----------------------------------------------------------------
+
+Port |Pin  |Fixed |Function                                              |Bank     |I/O Std   |Direction    |Used I/O Reg       |User I/O Lock Down |Clamp Diode   |Resistor Pull                     |Use I/O Calibration from the lane |Schmitt Trigger |Vcm Input Range    |On Die Termination |Odt Value (Ohm) |Input Delay |Slew              |Output Drive (mA) |Impedance (ohm)  |Output Load (pF)         |Source Termination (Ohm) |Output Delay |
+-----|-----|------|------------------------------------------------------|---------|----------|-------------|-------------------|-------------------|--------------|----------------------------------|----------------------------------|----------------|-------------------|-------------------|----------------|------------|------------------|------------------|-----------------|-------------------------|-------------------------|-------------|
+iClk  W12   Yes    HSIO92PB0/CLKIN_N_2/CCC_NW_CLKIN_N_2/CCC_NW_PLL1_OUT0  Bank0     LVCMOS18   Input         None                No                  ON             Up                                 No                                 OFF              ---                 OFF                 120              OFF          ---                ---                ---               ---                       ---                       ---           
+iSw4  W19   Yes    HSIO79PB0                                              Bank0     LVCMOS18   Input         None                No                  ON             Up                                 No                                 OFF              ---                 OFF                 120              OFF          ---                ---                ---               ---                       ---                       ---           
+LED1  V14   Yes    HSIO90PB0/CLKIN_N_3/CCC_NW_CLKIN_N_3                   Bank0     LVCMOS18   Output        None                No                  ON             None                               No                                 ---              ---                 ---                 120              ---          OFF                8                  ---               5                         ---                       OFF           
+LED2  U13   Yes    HSIO93NB0/DQS                                          Bank0     LVCMOS18   Output        None                No                  ON             None                               No                                 ---              ---                 ---                 120              ---          OFF                8                  ---               5                         ---                       OFF           
+LED3  T12   Yes    HSIO94NB0                                              Bank0     LVCMOS18   Output        None                No                  ON             None                               No                                 ---              ---                 ---                 120              ---          OFF                8                  ---               5                         ---                       OFF           
+LED4  AB19  Yes    HSIO70PB0                                              Bank0     LVCMOS18   Output        None                No                  ON             None                               No                                 ---              ---                 ---                 120              ---          OFF                8                  ---               5                         ---                       OFF           

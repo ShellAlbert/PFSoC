@@ -1,0 +1,82 @@
+
+Copyright (C) 1994-2022 Synopsys, Inc.
+This Synopsys software and all associated documentation are proprietary to Synopsys, Inc.
+and may only be used pursuant to the terms and conditions of a written license agreement
+with Synopsys, Inc. All other use, reproduction, modification, or distribution of the
+Synopsys software or the associated documentation is strictly prohibited.
+Tool: Synplify Pro (R)
+Build: T-2022.09M-SP2-1
+Install: F:\MySoftware\MicroChip\SynplifyPro
+OS: Windows 10 or later
+Hostname: DESKTOP-R1EC6M9
+
+Implementation : synthesis
+
+# Written on Fri Jan 12 14:52:50 2024
+
+##### DESIGN INFO #######################################################
+
+Top View:                "ZDragonFly"
+Constraint File(s):      "F:\MyTemporary\Github\PFSoC\ZDragonFly\designer\ZDragonFly\synthesis.fdc"
+
+
+
+
+##### SUMMARY ############################################################
+
+Found 0 issues in 0 out of 0 constraints
+
+
+##### DETAILS ############################################################
+
+
+
+Clock Relationships
+*******************
+
+Starting                                                            Ending                                                              |     rise to rise     |     fall to fall     |     rise to fall     |     fall to rise                     
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+PF_CCC_C0_PF_CCC_C0_0_PF_CCC|pll_inst_0_clkint_0_inferred_clock     PF_CCC_C0_PF_CCC_C0_0_PF_CCC|pll_inst_0_clkint_0_inferred_clock     |     10.000           |     No paths         |     No paths         |     No paths                         
+ZDragonFly|iClk                                                     ZDragonFly|iClk                                                     |     10.000           |     No paths         |     No paths         |     No paths                         
+PF_OSC_C0_PF_OSC_C0_0_PF_OSC|I_OSC_160_CLK_c_inferred_clock         PF_OSC_C0_PF_OSC_C0_0_PF_OSC|I_OSC_160_CLK_c_inferred_clock         |     No paths         |     10.000           |     No paths         |     No paths                         
+===================================================================================================================================================================================================================================================
+ Note: 'No paths' indicates there are no paths in the design for that pair of clock edges.
+       'Diff grp' indicates that paths exist but the starting clock and ending clock are in different clock groups.
+
+
+Unconstrained Start/End Points
+******************************
+
+p:LED1
+p:LED2
+p:LED3
+p:LED4
+p:iSw1
+p:iSw2
+p:iSw3
+p:iSw4
+
+
+Inapplicable constraints
+************************
+
+(none)
+
+
+Applicable constraints with issues
+**********************************
+
+(none)
+
+
+Constraints with matching wildcard expressions
+**********************************************
+
+(none)
+
+
+Library Report
+**************
+
+
+# End of Constraint Checker Report

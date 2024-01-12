@@ -1,0 +1,16 @@
+Project Name: ZDragonFly
+Location: F:\MyTemporary\Github\PFSoC\ZDragonFly
+Description: 
+Preferred HDL Type: Verilog
+
+#-----------------------------------------------------
+                  Device Details
+#-----------------------------------------------------
+
+Part Number    : MPFS250T_ES-FCVG484E
+Family         : PolarFireSoC
+Die            : MPFS250T_ES
+Package        : FCVG484
+Speed          : STD
+Core Voltage   : 1.0
+Range          : EXT

@@ -1,0 +1,7 @@
+F:\MySoftware\MicroChip\SynplifyPro\bin64\syn_nfilter.exe  -link  -top  ZDragonFly  -multisrs  F:\MyTemporary\Github\PFSoC\ZDragonFly\synthesis\synwork\ZDragonFly_comp.srs  -osyn  F:\MyTemporary\Github\PFSoC\ZDragonFly\synthesis\synwork\ZDragonFly_mult.srs  -log  F:\MyTemporary\Github\PFSoC\ZDragonFly\synthesis\synlog\ZDragonFly_multi_srs_gen.srr 
+relcom:..\..\..\..\..\..\MySoftware\MicroChip\SynplifyPro\bin64\syn_nfilter.exe -link -top ZDragonFly -multisrs ..\synwork\ZDragonFly_comp.srs -osyn ..\synwork\ZDragonFly_mult.srs -log ..\synlog\ZDragonFly_multi_srs_gen.srr
+rc:0 success:1 runtime:0
+file:..\synwork\ZDragonFly_comp.srs|io:i|time:1705042367|size:21954|exec:0|csum:0F2D3D6968F5963B092493F344C3584D
+file:..\synwork\ZDragonFly_mult.srs|io:o|time:1705042368|size:3503|exec:0|csum:
+file:..\synlog\ZDragonFly_multi_srs_gen.srr|io:o|time:1705042368|size:1164|exec:0|csum:
+file:..\..\..\..\..\..\MySoftware\MicroChip\SynplifyPro\bin64\syn_nfilter.exe|io:i|time:1691490330|size:10452480|exec:1|csum:C2B49D9CC1CC5913A59BA97F5F9B52BC

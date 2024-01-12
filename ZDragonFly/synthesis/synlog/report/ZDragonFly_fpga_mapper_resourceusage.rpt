@@ -1,0 +1,41 @@
+Resource Usage Report for ZDragonFly 
+
+Mapping to part: mpfs250tfcg1152std
+Cell usage:
+CLKINT          3 uses
+OSC_RC160MHZ    1 use
+PLL             1 use
+CFG1           4 uses
+CFG2           41 uses
+CFG3           38 uses
+CFG4           57 uses
+
+Carry cells:
+ARI1            102 uses - used for arithmetic functions
+
+
+Sequential Cells: 
+SLE            170 uses
+
+DSP Blocks:    0 of 784 (0%)
+
+I/O ports: 9
+I/O primitives: 6
+INBUF          2 uses
+OUTBUF         4 uses
+
+
+Global Clock Buffers: 3
+
+Total LUTs:    242
+
+Extra resources required for RAM and MACC_PA interface logic during P&R:
+
+RAM64X12 Interface Logic : SLEs = 0; LUTs = 0;
+RAM1K20  Interface Logic : SLEs = 0; LUTs = 0;
+MACC_PA     Interface Logic : SLEs = 0; LUTs = 0;
+MACC_PA_BC_ROM     Interface Logic : SLEs = 0; LUTs = 0;
+
+Total number of SLEs after P&R:  170 + 0 + 0 + 0 = 170;
+Total number of LUTs after P&R:  242 + 0 + 0 + 0 = 242;
+

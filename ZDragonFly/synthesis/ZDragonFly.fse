@@ -1,0 +1,18 @@
+
+fsm_encoding {6400401} onehot
+
+fsm_state_encoding {6400401} 000 {0000001}
+
+fsm_state_encoding {6400401} 001 {0000010}
+
+fsm_state_encoding {6400401} 010 {0000100}
+
+fsm_state_encoding {6400401} 011 {0001000}
+
+fsm_state_encoding {6400401} 100 {0010000}
+
+fsm_state_encoding {6400401} 101 {0100000}
+
+fsm_state_encoding {6400401} 110 {1000000}
+
+fsm_registers {6400401} {state[6]}  {state[5]}  {state[4]}  {state[3]}  {state[2]}  {state[1]}  {state[0]} 
